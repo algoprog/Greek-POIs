@@ -7,7 +7,7 @@ The largest open database with over 60.000 greek POIs.
 ![alt tag](https://lh3.googleusercontent.com/-iVUZDe9smog/VKSSjBuGLKI/AAAAAAAAAVM/PZ_z2kWll7o/w794-h410-no/greek-pois.png)
 
 
-The MySQL dump includes points in the categories:
+The MySQL dump includes points in these categories:
 
 - Cafe (10.411)
 - Food & Restaurants (19.277)
